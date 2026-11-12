@@ -1,0 +1,10 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "events": 2,
+    "totalMm": 9.5
+  }
+}
